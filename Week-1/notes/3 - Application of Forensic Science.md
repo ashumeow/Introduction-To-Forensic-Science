@@ -7,7 +7,7 @@ His head has been found bashed and his skull was crushed.
 He was rushed to hospital, but he died unconsciously.
 
 What did cops found?
-1. Safe abd pockets were emptied
+1. Safe and pockets were emptied
 -- Robbery
 2. Crumpled up brown paper bag
 -- That helped the murderer not keep any fingerprints
