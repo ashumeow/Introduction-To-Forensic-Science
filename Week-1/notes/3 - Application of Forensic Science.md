@@ -37,10 +37,10 @@ In those period, the forensic science was not believed nor taken serious.
 
 Joseph walked out free though he was the murderer.
 
-Later, Joseph confessed to a journalist while drunk, but there were no witnesses and so, it went came in public.
+Later, Joseph confessed to a journalist while drunk, but there were no witnesses and so, it never came in public.
 It was published after Joseph's death.
 
------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 Similar case:-
 
