@@ -56,7 +56,7 @@ Dead body --- A murder??
 Pathologist was given this position to analyze.
 -- Very premature baby
 -- Still born?
-Unfortunately, the mother had just dumped a dead baby into the garbage.
+Unfortunately, it was found that the mother did not murder, but she had just dumped a dead baby into the garbage.
 
 --------------------------------------------
 Another case:
