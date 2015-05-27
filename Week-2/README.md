@@ -7,6 +7,7 @@ The act is not culpable unless the mind is also guilty.
 Learning Objective(s)
 At the end of this topic, you should be able to:
 ```
+```
 2A. Atomic Structure & Spectroscopy
 
 Explain the structure of the atom and Bohr's model;
@@ -24,7 +25,9 @@ Identify which method is more effective for the analysis of compounds.
 ```
 ```
 Synopsis
-An introduction to spectroscopy and the structure of atoms. The comparisons between elemental analysis and the analysis of compounds will be discussed. Several case studies will be reviewed to enhance learners' understanding of the application of chemical analysis in the area of Forensic Science.
+An introduction to spectroscopy and the structure of atoms. 
+The comparisons between elemental analysis and the analysis of compounds will be discussed. 
+Several case studies will be reviewed to enhance learners understanding of the application of chemical analysis in the area of Forensic Science.
 ```
 ```
 Case Studies
