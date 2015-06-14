@@ -1,3 +1,6 @@
+```
+Time of Death
+```
 [1] More about the Piltdown Man case<br>
 (a) http://www.badarchaeology.com/?page_id=930 <br>
 (b) http://www.bbc.com/news/science-environment-20729785 <br>
@@ -23,3 +26,9 @@ http://www.cnn.com/2014/06/17/us/ohio-mummified-body/ <br>
 <br>
 [7] Putrefaction and forensic entomology <br>
 http://www.theguardian.com/science/neurophilosophy/2015/may/05/life-after-death <br>
+```
+Blood
+```
+[1] <a href="http://www.nobelprize.org/educational/medicine/bloodtypinggame/">The blood-typing game</a><br>
+[2] <a href="http://www.bbc.com/news/magazine-20170787">Blood type in Japan</a><br>
+[3] <a href="http://www.crime-scene-investigator.net/SimplifiedGuideBloodstainPatterns.pdf">Bloodstain Pattern Analysis</a><br>
